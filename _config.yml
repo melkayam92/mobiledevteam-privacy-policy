@@ -1,5 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 
+theme: Minimal
+
 # Site settings
 title: [Your Site Name]
 description: [A brief description of your site's purpose]
