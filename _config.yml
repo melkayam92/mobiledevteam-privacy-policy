@@ -1,8 +1,9 @@
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: pages-themes/minimal@v0.2.0
 
 # Site settings
-title: [Your Site Name]
-description: [A brief description of your site's purpose]
+title: Privacy Policy
+description: This is privacy policy for the application.
 
 # GitHub Pages settings
 github:
@@ -11,3 +12,4 @@ github:
 # Plugins (if needed, for additional Jekyll functionality)
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
