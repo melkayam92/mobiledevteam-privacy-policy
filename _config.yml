@@ -1,6 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 
-theme: Minimal
+theme: jekyll-theme-minimal
 
 # Site settings
 title: [Your Site Name]
