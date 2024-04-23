@@ -1,11 +1,14 @@
-lsi: false
-safe: true
-source: ./polices
-incremental: false
-highlighter: rouge
-theme: jekyll-theme-minimal
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
+
+# Site settings
+title: [Your Site Name]
+description: [A brief description of your site's purpose]
+
+# GitHub Pages settings
+github:
+  is_project_page: false
+
+# Plugins (if needed, for additional Jekyll functionality)
+plugins:
+  - jekyll-feed
